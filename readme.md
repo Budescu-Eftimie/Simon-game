@@ -8,4 +8,4 @@ https://github.com/Budescu-Eftimie/Simon-game.git
 
 ### Rules
 
-There are 4 color boxes , each on clicking will produce it's own distinct tune. The boxes start to get highlighted and randomly makes it's own tune. The aim is to recreate the sequence produced by clicking manually.
+There are 4 color boxes , each on clicking will produce it's own distinct tune and get highlighted. The player must follow the order of how the button blink and click the corresponding button in order.
